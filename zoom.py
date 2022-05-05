@@ -9,7 +9,7 @@ def meeting():
     This function will open the zoom meeting
     '''
     # zoom_link variable contains value of a link( Zoom Invite Link )
-    zoom_link = "https://dfa.zoom.us/j/88233250411"
+    zoom_link = "https://dfa.zoom.us/j/87630302015"
 
     # This open method from the webbrowser module will launch your meeting
     # Adjust your settings of the default web browser/zoom app
